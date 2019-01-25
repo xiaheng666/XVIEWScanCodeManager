@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ScanCoderViewController.h"
 #import "NSBundle+TZImagePicker.h"
 #import "TZAssetCell.h"
 #import "TZAssetModel.h"

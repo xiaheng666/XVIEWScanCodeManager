@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XVIEWScanCodeManager: 9cf16d60910cd52c2fd0712db73e7ad7f71b93d8
+  XVIEWScanCodeManager: ea0ad96c0d5cd317e86bb70be4955ffbc8394117
 
 PODFILE CHECKSUM: 18273bddcd9c938f240baed5daae6e28cb7bb8a6
 

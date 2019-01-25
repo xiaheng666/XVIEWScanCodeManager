@@ -20,7 +20,7 @@
   },
   "source_files": [
     "XVIEWScanCodeManager/Classes/**/*.{h,m}",
-    "XVIEWScanCodeManager/Classes/*.h"
+    "XVIEWScanCodeManager/Classes/*.{h,m}"
   ],
   "ios": {
     "vendored_libraries": "XVIEWScanCodeManager/Classes/*.a"
