@@ -1,0 +1,6 @@
+framework module XVIEWScanCodeManager {
+  umbrella header "XVIEWScanCodeManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

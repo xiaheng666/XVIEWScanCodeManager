@@ -1,0 +1,16 @@
+PODS:
+  - XVIEWScanCodeManager (0.1.0)
+
+DEPENDENCIES:
+  - XVIEWScanCodeManager (from `../`)
+
+EXTERNAL SOURCES:
+  XVIEWScanCodeManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XVIEWScanCodeManager: 9cf16d60910cd52c2fd0712db73e7ad7f71b93d8
+
+PODFILE CHECKSUM: 18273bddcd9c938f240baed5daae6e28cb7bb8a6
+
+COCOAPODS: 1.5.3

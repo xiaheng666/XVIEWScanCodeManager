@@ -1,0 +1,6 @@
+framework module Pods_XVIEWScanCodeManager_Tests {
+  umbrella header "Pods-XVIEWScanCodeManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
