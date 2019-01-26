@@ -1,6 +1,6 @@
 {
   "name": "XVIEWScanCodeManager",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "扫码相关",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaheng666/XVIEWScanCodeManager",
@@ -13,22 +13,16 @@
   },
   "source": {
     "git": "git@github.com:xiaheng666/XVIEWScanCodeManager.git",
-    "tag": "0.1.2"
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": [
-    "XVIEWScanCodeManager/Classes/**/*.{h,m}",
-    "XVIEWScanCodeManager/Classes/*.{h,m}"
-  ],
   "ios": {
-    "vendored_libraries": "XVIEWScanCodeManager/Classes/*.a"
+    "vendored_frameworks": "XVIEWScanCodeManager/Classes/*.framework"
   },
-  "resource_bundles": {
-    "XVIEWScanCodeManager": [
-      "XVIEWScanCodeManager/Assets/ScanCode.bundle",
-      "XVIEWScanCodeManager/Assets/TZImagePickerController.bundle"
-    ]
-  }
+  "resources": [
+    "XVIEWScanCodeManager/Assets/ScanCode.bundle",
+    "XVIEWScanCodeManager/Assets/TZImagePickerController.bundle"
+  ]
 }

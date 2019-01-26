@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "ScanCoderViewController.h"
 #import "NSBundle+TZImagePicker.h"
 #import "TZAssetCell.h"
 #import "TZAssetModel.h"
@@ -25,6 +24,7 @@
 #import "TZProgressView.h"
 #import "TZVideoPlayerController.h"
 #import "UIView+Layout.h"
+#import "ScanCoderViewController.h"
 #import "XVIEWScanCodeManager.h"
 
 FOUNDATION_EXPORT double XVIEWScanCodeManagerVersionNumber;

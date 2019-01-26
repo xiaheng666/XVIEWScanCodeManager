@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XVIEWScanCodeManager'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = '扫码相关'
 
 # This description is used to generate tags and improve search results.
@@ -30,13 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'XVIEWScanCodeManager/Classes/**/*.{h,m}','XVIEWScanCodeManager/Classes/*.{h,m}'
+#s.source_files = 'XVIEWScanCodeManager/Classes/**/*.{h,m}','XVIEWScanCodeManager/Classes/*.{h,m}'
 
-  s.ios.vendored_libraries = 'XVIEWScanCodeManager/Classes/*.a'
-  
-  s.resource_bundles = {
-     'XVIEWScanCodeManager' => ['XVIEWScanCodeManager/Assets/ScanCode.bundle','XVIEWScanCodeManager/Assets/TZImagePickerController.bundle']
-  }
+#s.ios.vendored_libraries = 'XVIEWScanCodeManager/Classes/*.a'
+  s.ios.vendored_frameworks = 'XVIEWScanCodeManager/Classes/*.framework'
+s.resources = 'XVIEWScanCodeManager/Assets/ScanCode.bundle','XVIEWScanCodeManager/Assets/TZImagePickerController.bundle'
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
