@@ -7,75 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		006C4F8DFB6E1A07B27D49BF44B81CA3 /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4FED3F900DF455122AC33E0F5FD857E3 /* TZImagePickerController.bundle */; };
 		0165F852B7CD18D9C885E0C9366099B7 /* Pods-XVIEWScanCodeManager_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AD5DBFAE073A11D8600879A9B01F50EE /* Pods-XVIEWScanCodeManager_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		066D7093E5B89B42E93FD668D94B0506 /* resume.png in Resources */ = {isa = PBXBuildFile; fileRef = 7246D8EFFD31B6EF5753225D8C00DB8E /* resume.png */; };
 		0CE193ECB2A9E6855C320003722D1CBB /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = D0EFD8F488D63DBA84D4CB4ADB7EC575 /* UIView+Layout.m */; };
-		10B8EC82B434CD918C698AAEA6A71D0E /* qrcode_scan_titlebar_back_pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD381933B59BA731FCD055141E88C4DD /* qrcode_scan_titlebar_back_pressed@2x.png */; };
 		1C5F6A4B5E80A9B1A55F0425951A54A8 /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BBD278E717D50CAB53A947629176A19 /* TZGifPhotoPreviewController.m */; };
-		1E1D2A2AF830BD9C3E792728255A803A /* qrcode_scan_btn_flash_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 605A9691FADDBB9D378B826FAEEC3F77 /* qrcode_scan_btn_flash_down@2x.png */; };
-		21136D8C9ED338FFAA5243131307DB20 /* photo_sel_photoPickerVc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AAE7FFD3323FBE3047B53A5ADEA537 /* photo_sel_photoPickerVc@2x.png */; };
-		2DBDF8AF68D5CE9A054B7C387348D970 /* photo_original_def@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 370EFB762F0A7336131D8A24B1685E37 /* photo_original_def@2x.png */; };
 		30D1ABA591F5AC6803259AF253478650 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		34C7893BF961C6B5C27339BDE8868FBE /* XVIEWScanCodeManager.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 26E9B9B2088E42A31C3DCD1811DD63CB /* XVIEWScanCodeManager.bundle */; };
-		37FAB844F0631CA1F7B78DAD1469AC80 /* navi_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EE2B7D7574B7CC06F1E53E4F5875D03 /* navi_back@2x.png */; };
-		3A6F7376BB3EF5D197059525A6854889 /* photo_def_previewVc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8494D2B0C382E9B8884AE5E70F791E66 /* photo_def_previewVc@2x.png */; };
 		3F41D5430BE555AC7AD9D9F762AA8011 /* TZPhotoPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = EA38A4C591B41DA56A5EDAB72CA74A08 /* TZPhotoPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		41C1BAD889476332B1140B6CFAAD2446 /* VideoSendIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B137C1F93BBD1CC1E9C6AE9AF21E895E /* VideoSendIcon@2x.png */; };
 		47D032CB6B3FCFBAAE4CCB8D54C537E4 /* TZGifPhotoPreviewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A94E766FAF7EB6D5923B93BB6D35AEC /* TZGifPhotoPreviewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		49ED4643DDE84DD21D81F6DC26A6B2B2 /* preview_number_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7272A6DFB217429AEC3048869A5E8B62 /* preview_number_icon@2x.png */; };
 		4B7234DDF22B346B1617D54508B2491B /* TZPhotoPreviewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B1900C3B97247D150B324DD7302930E /* TZPhotoPreviewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4CFFDFE874158A3EDF2650C43F94AF3E /* scan_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EEE7627E7CC156E6B1C9B29CE89A3CE7 /* scan_4@2x.png */; };
 		4E58F8F48175723318FC48A5F886D077 /* TZVideoPlayerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C35B7640E13680E8421887B80FC81CF /* TZVideoPlayerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		50C4EBE0FEC6652729468F03CEC006D6 /* ScanCode.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 565EAC343B184E56CCAE1054B4C5D601 /* ScanCode.bundle */; };
 		5117241503D6DECD1AB438DB4826AEC8 /* XVIEWScanCodeManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 508AE77EC7EC180CB511EFDA40F60C47 /* XVIEWScanCodeManager-dummy.m */; };
 		51562D6600EA8D07B723E059208DAC17 /* XVIEWScanCodeManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B41FCFD52BCF393103C005FDAB13C37 /* XVIEWScanCodeManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52617B25B91EC494F1D16FCC04092463 /* TZImageCropManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 58399CA68AF9A9C454D5911F340BAB74 /* TZImageCropManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		57D4CB40FF41D2869EB996A2A39A0E18 /* photo_def_photoPickerVc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FBBB5CDC27618CDFB8235F00EB8C69CA /* photo_def_photoPickerVc@2x.png */; };
-		580E3850B904833D099EB34F0CF8FB90 /* scan_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 60D49FE481C6B2FCDF52247AC57E03C9 /* scan_3@2x.png */; };
 		5B68FB7E73A0A9235C7AEE6E41B270E4 /* TZImagePickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5735B6A63B49BAEE91076E350BE9FAAD /* TZImagePickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6D9E9CF7F5B3C6588F07064D00C1D7B9 /* qrcode_scan_titlebar_back_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 814E41FDE9C2156E71E08A9DB2316124 /* qrcode_scan_titlebar_back_nor@2x.png */; };
 		6E398D0EDF785E5E32DCAC4F21738B9A /* UIView+Layout.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F7965F83BF3531605D985E3A12EB19A /* UIView+Layout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		72F17C6D33A8EB3D50B51663315D04E5 /* TZAssetModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C3BA89A29EAD0E8E8228333F26E3645 /* TZAssetModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		745C1A91138D77C011DFC3B71F96CAF4 /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 95157089345CBB15EA4D15E902DC2321 /* TZProgressView.m */; };
-		772BC06BBF2E39324C3910521D2CB1EA /* photo_sel_previewVc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FE8455307E85C4C095396B7D045BCC /* photo_sel_previewVc@2x.png */; };
 		77A9854A846921F8658319D68CC172F1 /* XVIEWScanCodeManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BFAE43304671991512982626A61C51A /* XVIEWScanCodeManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7E42303BD03A02B4382DE94B25CAD000 /* photo_number_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A8A81B6659C50663620FEF3A9C6B6EE /* photo_number_icon@2x.png */; };
 		7EED8B7CBF33579D2B291842B7384F3E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		7F5C674A034C3CAADA07E3CB6FE3D46E /* qrcode_scan_light_green@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 722658EF399F4D39957407B5AFE1BB24 /* qrcode_scan_light_green@2x.png */; };
 		81C378A6F184231A3BA97D41D658B88D /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C5EA8A24F13B5A533B23E46BE13EDCBE /* TZImageManager.m */; };
 		83FB785E18D0D08F147510D18DADF901 /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A4EF7F09CCF9F4DD957A7CC0909864A /* TZAssetModel.m */; };
 		84566E66D3CE494F5ECEDD39E867535E /* NSBundle+TZImagePicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 5989D35DBFBAAC334374579F5257A070 /* NSBundle+TZImagePicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8529B0904DEFB8FB8F2A0E7A16EEAD6D /* TZProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = EE38CECCCC036A95CA835F255375A277 /* TZProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8A543204F3D83CF1AAFAADCB827F6CF2 /* TZLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0382D1ED7C690388EBCE35786FC2A205 /* TZLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8BECA22ECCC7A9C1AA2C47A8AF8F48EF /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 579198B418608D3715328B4305BAFE36 /* TZVideoPlayerController.m */; };
-		8E73915459F9A4501FB965C77596BD37 /* qrcode_scan_btn_flash_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A3DACAEF1AA214A4F97EFC55441AE059 /* qrcode_scan_btn_flash_nor@2x.png */; };
 		97A5EC1A8B58B34A3F1941B9D5474689 /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA04910FB5A0FC25289B356177D8B7A /* TZPhotoPickerController.m */; };
-		97D6F9ADB2EB30476E70029142A0DAF5 /* qrcode_scan_btn_scan_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CC23D2BA2AFE6F9EBAFA8699EAF33B69 /* qrcode_scan_btn_scan_off@2x.png */; };
 		9E6A75C7ED2C767912B6791A0D6FAB5A /* Pods-XVIEWScanCodeManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AE934F2803C6902B5CDA74BB52A5BDF1 /* Pods-XVIEWScanCodeManager_Tests-dummy.m */; };
 		A1BF5BC4302D04B06880AF81F718F8D4 /* Pods-XVIEWScanCodeManager_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B8B962FBFCF02763EEDD66037BE3C06D /* Pods-XVIEWScanCodeManager_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A51852F616AFC2744949059647D3DFC6 /* takePicture@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09963DD755B9C477F9ECC35B413F1BFB /* takePicture@2x.png */; };
 		A8EACE6CFBFAFD2C05220142D2CE1733 /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 307DCC1D966831A667F77A225C6DFFD3 /* TZAssetCell.m */; };
 		AFAE04341D049C6E81C3FCEE1F05A1B4 /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 67619C0682A811AB4FB79C9EBC52ADCF /* NSBundle+TZImagePicker.m */; };
-		B06FF8B55169DCE9B37A8BCD9CB0791B /* photo_original_sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6C3CCD9FAF158FD3596907DF938B893 /* photo_original_sel@2x.png */; };
-		B1894CC80C1FA7161DC52C708AB7E79F /* scan_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3A67CF30D774E3E69E430183F32C4A3 /* scan_1@2x.png */; };
 		BE194EDC512B9C56A66F6A441F564464 /* ScanCoderViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C6680B44BAD4D6277F30ED4EBFB5016 /* ScanCoderViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C387855E1B34C589FC6896605F0337F4 /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7D9567A8A2A1B4D1B9D3DC0AD1AE6DB /* TZPhotoPreviewController.m */; };
 		C6C2909124A3FA0B2971C4E7A36BB67D /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3329F6E1E44CCC6F9C08393B1C19AAD8 /* TZLocationManager.m */; };
-		CB79EB7D3F4B72422F6BDE5CC3D2C345 /* MMVideoPreviewPlayHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C15A287BC85B2B60083E74D8C91EA3D /* MMVideoPreviewPlayHL@2x.png */; };
-		CB8921C78D70DEE520802A8F482EFC2C /* qrcode_scan_btn_photo_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 725E9BAD46B8FA9BFB376DD583633F0B /* qrcode_scan_btn_photo_nor@2x.png */; };
 		CEFB9913779B045B22E8745EEB04282E /* ScanCoderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 656E78A129EE5E6C5BD4D43F6F79B689 /* ScanCoderViewController.m */; };
 		D0E486C8F0E07C4F431964C3C3F90C1D /* TZPhotoPreviewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C2642B6B190D7B94C040D6CC4C764B1 /* TZPhotoPreviewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2616E5CC761BF0D56A5D847D1DA0BA0 /* Pods-XVIEWScanCodeManager_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 745E130FA26557E995F44C52BB10175E /* Pods-XVIEWScanCodeManager_Example-dummy.m */; };
-		D4F1BFBAA6D81576BD8B610825A61DC1 /* scan_net@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B85603339D00C7FE9845CB6761C69D7 /* scan_net@2x.png */; };
-		E015CDD0AF052E9F03050210F1B852CB /* preview_original_def@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CE5D3D23E7863E30A745E06679434B2 /* preview_original_def@2x.png */; };
-		E25F46E5F91085368764B7B3034BBF86 /* qrcode_scan_btn_photo_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF754C40F755D33201B964ED7C600746 /* qrcode_scan_btn_photo_down@2x.png */; };
 		E4FCE9B7052784F5A332EC516157921C /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EAA7A6C5F9DC291D57BCC3509EBD60A /* TZImagePickerController.m */; };
-		E61952893C8068C93036C1721BF115B9 /* MMVideoPreviewPlay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C13DA24F2B14A5D8D84FE7B8132020E1 /* MMVideoPreviewPlay@2x.png */; };
 		EA44A0E9FD8336042A0F7B581117AA0D /* TZAssetCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F6524EDDB48BCA1FAD3F16AF1FA06C1 /* TZAssetCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EC4989C7658D80092BCD42B90EB61D42 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		ED0A54F6B35F5108E4E015FD52F8145E /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 93ACA4963F18BA9223395F947B67E303 /* TZPhotoPreviewCell.m */; };
 		EF5CF9B330216F42932EE0844D751DF0 /* TZImageManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 35CE2FEC2CE7FD4BA72F21B59C2D99F4 /* TZImageManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F304385E100D661F203FED6038012962 /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B504D6BF336FF51DA6691EE81F43702A /* TZImageCropManager.m */; };
-		F91AC377B02FEA2A270240999B50446A /* scan_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1706812B50D78B8E7B2BD27C4627F030 /* scan_2@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -105,60 +79,44 @@
 /* Begin PBXFileReference section */
 		0382D1ED7C690388EBCE35786FC2A205 /* TZLocationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
 		08C3AB39142AD0250B69F2381C9995EE /* Pods-XVIEWScanCodeManager_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XVIEWScanCodeManager_Tests-resources.sh"; sourceTree = "<group>"; };
-		09963DD755B9C477F9ECC35B413F1BFB /* takePicture@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "takePicture@2x.png"; sourceTree = "<group>"; };
 		0AAA99115C835B90DF7063E3B0EBF20E /* Pods-XVIEWScanCodeManager_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XVIEWScanCodeManager_Example.modulemap"; sourceTree = "<group>"; };
 		0C6680B44BAD4D6277F30ED4EBFB5016 /* ScanCoderViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ScanCoderViewController.h; path = XVIEWScanCodeManager/Classes/ScanCoderViewController.h; sourceTree = "<group>"; };
-		1706812B50D78B8E7B2BD27C4627F030 /* scan_2@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "scan_2@2x.png"; sourceTree = "<group>"; };
 		1A94E766FAF7EB6D5923B93BB6D35AEC /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
-		1C15A287BC85B2B60083E74D8C91EA3D /* MMVideoPreviewPlayHL@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "MMVideoPreviewPlayHL@2x.png"; sourceTree = "<group>"; };
 		1EAA7A6C5F9DC291D57BCC3509EBD60A /* TZImagePickerController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
 		25A4C6D058535A27D8298D592A8F474F /* XVIEWScanCodeManager.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XVIEWScanCodeManager.xcconfig; sourceTree = "<group>"; };
 		26E9B9B2088E42A31C3DCD1811DD63CB /* XVIEWScanCodeManager.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = XVIEWScanCodeManager.bundle; path = "XVIEWScanCodeManager-XVIEWScanCodeManager.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2B85603339D00C7FE9845CB6761C69D7 /* scan_net@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "scan_net@2x.png"; sourceTree = "<group>"; };
-		2CE5D3D23E7863E30A745E06679434B2 /* preview_original_def@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "preview_original_def@2x.png"; sourceTree = "<group>"; };
-		2EE2B7D7574B7CC06F1E53E4F5875D03 /* navi_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "navi_back@2x.png"; sourceTree = "<group>"; };
 		2F6524EDDB48BCA1FAD3F16AF1FA06C1 /* TZAssetCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
 		307DCC1D966831A667F77A225C6DFFD3 /* TZAssetCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
 		3329F6E1E44CCC6F9C08393B1C19AAD8 /* TZLocationManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
 		355D5AEAA7FA6CB0EE890DA91A2F74C1 /* Pods-XVIEWScanCodeManager_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XVIEWScanCodeManager_Example-resources.sh"; sourceTree = "<group>"; };
 		35CE2FEC2CE7FD4BA72F21B59C2D99F4 /* TZImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
-		370EFB762F0A7336131D8A24B1685E37 /* photo_original_def@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_original_def@2x.png"; sourceTree = "<group>"; };
 		39DE0CFE2C77E96A7037D3AA2C6D4D55 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		3EA04910FB5A0FC25289B356177D8B7A /* TZPhotoPickerController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
 		44300B60E7448F40AD2BEA3B5E8EC787 /* libScanCodeManager.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libScanCodeManager.a; path = XVIEWScanCodeManager/Classes/libScanCodeManager.a; sourceTree = "<group>"; };
 		4B41FCFD52BCF393103C005FDAB13C37 /* XVIEWScanCodeManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XVIEWScanCodeManager.h; path = XVIEWScanCodeManager/Classes/XVIEWScanCodeManager.h; sourceTree = "<group>"; };
 		4BFAE43304671991512982626A61C51A /* XVIEWScanCodeManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XVIEWScanCodeManager-umbrella.h"; sourceTree = "<group>"; };
 		4C3BA89A29EAD0E8E8228333F26E3645 /* TZAssetModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
+		4FED3F900DF455122AC33E0F5FD857E3 /* TZImagePickerController.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TZImagePickerController.bundle; path = XVIEWScanCodeManager/Assets/TZImagePickerController.bundle; sourceTree = "<group>"; };
 		508AE77EC7EC180CB511EFDA40F60C47 /* XVIEWScanCodeManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XVIEWScanCodeManager-dummy.m"; sourceTree = "<group>"; };
+		565EAC343B184E56CCAE1054B4C5D601 /* ScanCode.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = ScanCode.bundle; path = XVIEWScanCodeManager/Assets/ScanCode.bundle; sourceTree = "<group>"; };
 		56D84DD970A678B1F9493C125A832433 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5735B6A63B49BAEE91076E350BE9FAAD /* TZImagePickerController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
 		579198B418608D3715328B4305BAFE36 /* TZVideoPlayerController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
-		57FE8455307E85C4C095396B7D045BCC /* photo_sel_previewVc@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_sel_previewVc@2x.png"; sourceTree = "<group>"; };
 		58399CA68AF9A9C454D5911F340BAB74 /* TZImageCropManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
 		5989D35DBFBAAC334374579F5257A070 /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5BBD278E717D50CAB53A947629176A19 /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
 		5EA40CF2AE93FF279F33A7D136DCB6D7 /* Pods-XVIEWScanCodeManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XVIEWScanCodeManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		605A9691FADDBB9D378B826FAEEC3F77 /* qrcode_scan_btn_flash_down@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_btn_flash_down@2x.png"; sourceTree = "<group>"; };
-		60D49FE481C6B2FCDF52247AC57E03C9 /* scan_3@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "scan_3@2x.png"; sourceTree = "<group>"; };
 		656E78A129EE5E6C5BD4D43F6F79B689 /* ScanCoderViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ScanCoderViewController.m; path = XVIEWScanCodeManager/Classes/ScanCoderViewController.m; sourceTree = "<group>"; };
 		67619C0682A811AB4FB79C9EBC52ADCF /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
-		6A8A81B6659C50663620FEF3A9C6B6EE /* photo_number_icon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_number_icon@2x.png"; sourceTree = "<group>"; };
 		6A952F652863EB2E3E5567DE8AF04EE5 /* Pods-XVIEWScanCodeManager_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XVIEWScanCodeManager_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		6B1900C3B97247D150B324DD7302930E /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
 		6D703762217D7EA0A13DB063B3296679 /* Pods-XVIEWScanCodeManager_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XVIEWScanCodeManager_Tests.modulemap"; sourceTree = "<group>"; };
-		71AAE7FFD3323FBE3047B53A5ADEA537 /* photo_sel_photoPickerVc@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_sel_photoPickerVc@2x.png"; sourceTree = "<group>"; };
-		722658EF399F4D39957407B5AFE1BB24 /* qrcode_scan_light_green@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_light_green@2x.png"; sourceTree = "<group>"; };
-		7246D8EFFD31B6EF5753225D8C00DB8E /* resume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = resume.png; sourceTree = "<group>"; };
-		725E9BAD46B8FA9BFB376DD583633F0B /* qrcode_scan_btn_photo_nor@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_btn_photo_nor@2x.png"; sourceTree = "<group>"; };
-		7272A6DFB217429AEC3048869A5E8B62 /* preview_number_icon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "preview_number_icon@2x.png"; sourceTree = "<group>"; };
 		745E130FA26557E995F44C52BB10175E /* Pods-XVIEWScanCodeManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XVIEWScanCodeManager_Example-dummy.m"; sourceTree = "<group>"; };
 		7C35B7640E13680E8421887B80FC81CF /* TZVideoPlayerController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
 		7CE3471EDCC1333C4DE92134E1B5386D /* Pods-XVIEWScanCodeManager_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XVIEWScanCodeManager_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		80565FDA9DF2248E4B8C5D6AD62EFA95 /* Pods-XVIEWScanCodeManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XVIEWScanCodeManager_Example.release.xcconfig"; sourceTree = "<group>"; };
-		814E41FDE9C2156E71E08A9DB2316124 /* qrcode_scan_titlebar_back_nor@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_titlebar_back_nor@2x.png"; sourceTree = "<group>"; };
 		846833BD865CCF2CF17E6ABBC01C18E7 /* XVIEWScanCodeManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XVIEWScanCodeManager.framework; path = XVIEWScanCodeManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8494D2B0C382E9B8884AE5E70F791E66 /* photo_def_previewVc@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_def_previewVc@2x.png"; sourceTree = "<group>"; };
 		8A4EF7F09CCF9F4DD957A7CC0909864A /* TZAssetModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
 		8C2642B6B190D7B94C040D6CC4C764B1 /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
 		8C98E32C04AA4FE4985035D1283FC447 /* Pods-XVIEWScanCodeManager_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XVIEWScanCodeManager_Tests-frameworks.sh"; sourceTree = "<group>"; };
@@ -168,25 +126,18 @@
 		93ACA4963F18BA9223395F947B67E303 /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
 		94E75D7A5414F376A9805E6930691D48 /* Pods-XVIEWScanCodeManager_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XVIEWScanCodeManager_Example-frameworks.sh"; sourceTree = "<group>"; };
 		95157089345CBB15EA4D15E902DC2321 /* TZProgressView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
-		A3DACAEF1AA214A4F97EFC55441AE059 /* qrcode_scan_btn_flash_nor@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_btn_flash_nor@2x.png"; sourceTree = "<group>"; };
 		A78F3102357E875F1F934A4DEF3636EF /* Pods-XVIEWScanCodeManager_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XVIEWScanCodeManager_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A7AD22833147F1CE5494D58D336880E0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		AD5DBFAE073A11D8600879A9B01F50EE /* Pods-XVIEWScanCodeManager_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XVIEWScanCodeManager_Example-umbrella.h"; sourceTree = "<group>"; };
 		AE934F2803C6902B5CDA74BB52A5BDF1 /* Pods-XVIEWScanCodeManager_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XVIEWScanCodeManager_Tests-dummy.m"; sourceTree = "<group>"; };
-		B137C1F93BBD1CC1E9C6AE9AF21E895E /* VideoSendIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "VideoSendIcon@2x.png"; sourceTree = "<group>"; };
 		B333047517587A01B1F0618F5C46C22C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B504D6BF336FF51DA6691EE81F43702A /* TZImageCropManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
-		B6C3CCD9FAF158FD3596907DF938B893 /* photo_original_sel@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_original_sel@2x.png"; sourceTree = "<group>"; };
 		B8B962FBFCF02763EEDD66037BE3C06D /* Pods-XVIEWScanCodeManager_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XVIEWScanCodeManager_Tests-umbrella.h"; sourceTree = "<group>"; };
 		BCEBD7B3ED0A4C8D673E7AE133D20216 /* Pods_XVIEWScanCodeManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XVIEWScanCodeManager_Tests.framework; path = "Pods-XVIEWScanCodeManager_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEE1EDA1C2276BF7F8E3A437F581AA12 /* Pods_XVIEWScanCodeManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XVIEWScanCodeManager_Example.framework; path = "Pods-XVIEWScanCodeManager_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0B1F1C87C120751778A7AF6E5BDA930 /* XVIEWScanCodeManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XVIEWScanCodeManager-prefix.pch"; sourceTree = "<group>"; };
-		C13DA24F2B14A5D8D84FE7B8132020E1 /* MMVideoPreviewPlay@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "MMVideoPreviewPlay@2x.png"; sourceTree = "<group>"; };
-		C3A67CF30D774E3E69E430183F32C4A3 /* scan_1@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "scan_1@2x.png"; sourceTree = "<group>"; };
 		C5EA8A24F13B5A533B23E46BE13EDCBE /* TZImageManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
-		CC23D2BA2AFE6F9EBAFA8699EAF33B69 /* qrcode_scan_btn_scan_off@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_btn_scan_off@2x.png"; sourceTree = "<group>"; };
 		D0EFD8F488D63DBA84D4CB4ADB7EC575 /* UIView+Layout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
-		DF754C40F755D33201B964ED7C600746 /* qrcode_scan_btn_photo_down@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_btn_photo_down@2x.png"; sourceTree = "<group>"; };
 		E26132D580D841E69207FB50170BB57C /* XVIEWScanCodeManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = XVIEWScanCodeManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E40ECB8986E7DC1A44AAF532433972DB /* Pods-XVIEWScanCodeManager_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XVIEWScanCodeManager_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E667BFA893290101601CA103DBB3AEBC /* Pods-XVIEWScanCodeManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XVIEWScanCodeManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -194,11 +145,8 @@
 		E973352E61E02C962033C095EDC0DE98 /* Pods-XVIEWScanCodeManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XVIEWScanCodeManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		EA38A4C591B41DA56A5EDAB72CA74A08 /* TZPhotoPickerController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
 		EE38CECCCC036A95CA835F255375A277 /* TZProgressView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
-		EEE7627E7CC156E6B1C9B29CE89A3CE7 /* scan_4@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "scan_4@2x.png"; sourceTree = "<group>"; };
 		F32AB2CB708F7F8FDABD652D34E4E70D /* XVIEWScanCodeManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XVIEWScanCodeManager.modulemap; sourceTree = "<group>"; };
 		FA76B54E492998B8B0E8C506950C73DC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FBBB5CDC27618CDFB8235F00EB8C69CA /* photo_def_photoPickerVc@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "photo_def_photoPickerVc@2x.png"; sourceTree = "<group>"; };
-		FD381933B59BA731FCD055141E88C4DD /* qrcode_scan_titlebar_back_pressed@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "qrcode_scan_titlebar_back_pressed@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -272,37 +220,6 @@
 			path = XVIEWScanCodeManager/Classes/TZImagePickerController;
 			sourceTree = "<group>";
 		};
-		1B2EC5F428B62FDA75D1963C057DE50E /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				27C84B5F54F51DE13BFA8051026507F9 /* ScanCode.bundle */,
-				8F861781CF0FFAF5DD15A198431C1421 /* TZImagePickerController.bundle */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
-		27C84B5F54F51DE13BFA8051026507F9 /* ScanCode.bundle */ = {
-			isa = PBXGroup;
-			children = (
-				605A9691FADDBB9D378B826FAEEC3F77 /* qrcode_scan_btn_flash_down@2x.png */,
-				A3DACAEF1AA214A4F97EFC55441AE059 /* qrcode_scan_btn_flash_nor@2x.png */,
-				DF754C40F755D33201B964ED7C600746 /* qrcode_scan_btn_photo_down@2x.png */,
-				725E9BAD46B8FA9BFB376DD583633F0B /* qrcode_scan_btn_photo_nor@2x.png */,
-				CC23D2BA2AFE6F9EBAFA8699EAF33B69 /* qrcode_scan_btn_scan_off@2x.png */,
-				722658EF399F4D39957407B5AFE1BB24 /* qrcode_scan_light_green@2x.png */,
-				814E41FDE9C2156E71E08A9DB2316124 /* qrcode_scan_titlebar_back_nor@2x.png */,
-				FD381933B59BA731FCD055141E88C4DD /* qrcode_scan_titlebar_back_pressed@2x.png */,
-				7246D8EFFD31B6EF5753225D8C00DB8E /* resume.png */,
-				C3A67CF30D774E3E69E430183F32C4A3 /* scan_1@2x.png */,
-				1706812B50D78B8E7B2BD27C4627F030 /* scan_2@2x.png */,
-				60D49FE481C6B2FCDF52247AC57E03C9 /* scan_3@2x.png */,
-				EEE7627E7CC156E6B1C9B29CE89A3CE7 /* scan_4@2x.png */,
-				2B85603339D00C7FE9845CB6761C69D7 /* scan_net@2x.png */,
-			);
-			name = ScanCode.bundle;
-			path = XVIEWScanCodeManager/Assets/ScanCode.bundle;
-			sourceTree = "<group>";
-		};
 		367A8DB627C3D81F67FBC1EC284073DB /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -356,34 +273,12 @@
 				4B41FCFD52BCF393103C005FDAB13C37 /* XVIEWScanCodeManager.h */,
 				BE2248554CE7ACB5035BFA475EBCE99F /* Frameworks */,
 				F29DFE4CCA761DA6500472F4DEC5C199 /* Pod */,
-				1B2EC5F428B62FDA75D1963C057DE50E /* Resources */,
+				B15D92ADFA890EA351B6A11F14F9C214 /* Resources */,
 				CBC79C4074FCFEF680222DF2A97C41DE /* Support Files */,
 				1482AAE9AB0186A67F03642413EAEAF0 /* TZImagePickerController */,
 			);
 			name = XVIEWScanCodeManager;
 			path = ../..;
-			sourceTree = "<group>";
-		};
-		8F861781CF0FFAF5DD15A198431C1421 /* TZImagePickerController.bundle */ = {
-			isa = PBXGroup;
-			children = (
-				C13DA24F2B14A5D8D84FE7B8132020E1 /* MMVideoPreviewPlay@2x.png */,
-				1C15A287BC85B2B60083E74D8C91EA3D /* MMVideoPreviewPlayHL@2x.png */,
-				2EE2B7D7574B7CC06F1E53E4F5875D03 /* navi_back@2x.png */,
-				FBBB5CDC27618CDFB8235F00EB8C69CA /* photo_def_photoPickerVc@2x.png */,
-				8494D2B0C382E9B8884AE5E70F791E66 /* photo_def_previewVc@2x.png */,
-				6A8A81B6659C50663620FEF3A9C6B6EE /* photo_number_icon@2x.png */,
-				370EFB762F0A7336131D8A24B1685E37 /* photo_original_def@2x.png */,
-				B6C3CCD9FAF158FD3596907DF938B893 /* photo_original_sel@2x.png */,
-				71AAE7FFD3323FBE3047B53A5ADEA537 /* photo_sel_photoPickerVc@2x.png */,
-				57FE8455307E85C4C095396B7D045BCC /* photo_sel_previewVc@2x.png */,
-				7272A6DFB217429AEC3048869A5E8B62 /* preview_number_icon@2x.png */,
-				2CE5D3D23E7863E30A745E06679434B2 /* preview_original_def@2x.png */,
-				09963DD755B9C477F9ECC35B413F1BFB /* takePicture@2x.png */,
-				B137C1F93BBD1CC1E9C6AE9AF21E895E /* VideoSendIcon@2x.png */,
-			);
-			name = TZImagePickerController.bundle;
-			path = XVIEWScanCodeManager/Assets/TZImagePickerController.bundle;
 			sourceTree = "<group>";
 		};
 		962F6342CBA49C5EDD5030CA1B27AADC /* Targets Support Files */ = {
@@ -411,6 +306,15 @@
 			);
 			name = "Pods-XVIEWScanCodeManager_Tests";
 			path = "Target Support Files/Pods-XVIEWScanCodeManager_Tests";
+			sourceTree = "<group>";
+		};
+		B15D92ADFA890EA351B6A11F14F9C214 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				565EAC343B184E56CCAE1054B4C5D601 /* ScanCode.bundle */,
+				4FED3F900DF455122AC33E0F5FD857E3 /* TZImagePickerController.bundle */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -554,7 +458,7 @@
 			buildPhases = (
 				F4C60A44250E761091F0462FC64E388F /* Sources */,
 				679770E2449E908AEBBEACFE3408643C /* Frameworks */,
-				FE1252A4EF5768B32A0DB7196C77D404 /* Resources */,
+				4B8C8E2F978AE8C0CA6AD44CF0E9FD99 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -613,46 +517,20 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		4B8C8E2F978AE8C0CA6AD44CF0E9FD99 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50C4EBE0FEC6652729468F03CEC006D6 /* ScanCode.bundle in Resources */,
+				006C4F8DFB6E1A07B27D49BF44B81CA3 /* TZImagePickerController.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		78362DFB5FDF97D3908D052A124D395C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				34C7893BF961C6B5C27339BDE8868FBE /* XVIEWScanCodeManager.bundle in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FE1252A4EF5768B32A0DB7196C77D404 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E61952893C8068C93036C1721BF115B9 /* MMVideoPreviewPlay@2x.png in Resources */,
-				CB79EB7D3F4B72422F6BDE5CC3D2C345 /* MMVideoPreviewPlayHL@2x.png in Resources */,
-				37FAB844F0631CA1F7B78DAD1469AC80 /* navi_back@2x.png in Resources */,
-				57D4CB40FF41D2869EB996A2A39A0E18 /* photo_def_photoPickerVc@2x.png in Resources */,
-				3A6F7376BB3EF5D197059525A6854889 /* photo_def_previewVc@2x.png in Resources */,
-				7E42303BD03A02B4382DE94B25CAD000 /* photo_number_icon@2x.png in Resources */,
-				2DBDF8AF68D5CE9A054B7C387348D970 /* photo_original_def@2x.png in Resources */,
-				B06FF8B55169DCE9B37A8BCD9CB0791B /* photo_original_sel@2x.png in Resources */,
-				21136D8C9ED338FFAA5243131307DB20 /* photo_sel_photoPickerVc@2x.png in Resources */,
-				772BC06BBF2E39324C3910521D2CB1EA /* photo_sel_previewVc@2x.png in Resources */,
-				49ED4643DDE84DD21D81F6DC26A6B2B2 /* preview_number_icon@2x.png in Resources */,
-				E015CDD0AF052E9F03050210F1B852CB /* preview_original_def@2x.png in Resources */,
-				1E1D2A2AF830BD9C3E792728255A803A /* qrcode_scan_btn_flash_down@2x.png in Resources */,
-				8E73915459F9A4501FB965C77596BD37 /* qrcode_scan_btn_flash_nor@2x.png in Resources */,
-				E25F46E5F91085368764B7B3034BBF86 /* qrcode_scan_btn_photo_down@2x.png in Resources */,
-				CB8921C78D70DEE520802A8F482EFC2C /* qrcode_scan_btn_photo_nor@2x.png in Resources */,
-				97D6F9ADB2EB30476E70029142A0DAF5 /* qrcode_scan_btn_scan_off@2x.png in Resources */,
-				7F5C674A034C3CAADA07E3CB6FE3D46E /* qrcode_scan_light_green@2x.png in Resources */,
-				6D9E9CF7F5B3C6588F07064D00C1D7B9 /* qrcode_scan_titlebar_back_nor@2x.png in Resources */,
-				10B8EC82B434CD918C698AAEA6A71D0E /* qrcode_scan_titlebar_back_pressed@2x.png in Resources */,
-				066D7093E5B89B42E93FD668D94B0506 /* resume.png in Resources */,
-				B1894CC80C1FA7161DC52C708AB7E79F /* scan_1@2x.png in Resources */,
-				F91AC377B02FEA2A270240999B50446A /* scan_2@2x.png in Resources */,
-				580E3850B904833D099EB34F0CF8FB90 /* scan_3@2x.png in Resources */,
-				4CFFDFE874158A3EDF2650C43F94AF3E /* scan_4@2x.png in Resources */,
-				D4F1BFBAA6D81576BD8B610825A61DC1 /* scan_net@2x.png in Resources */,
-				A51852F616AFC2744949059647D3DFC6 /* takePicture@2x.png in Resources */,
-				41C1BAD889476332B1140B6CFAAD2446 /* VideoSendIcon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
