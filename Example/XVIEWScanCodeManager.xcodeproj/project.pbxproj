@@ -491,6 +491,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 24N474AU9T;
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XVIEWScanCodeManager/XVIEWScanCodeManager-Prefix.pch";
 				INFOPLIST_FILE = "XVIEWScanCodeManager/XVIEWScanCodeManager-Info.plist";
@@ -507,6 +508,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 24N474AU9T;
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XVIEWScanCodeManager/XVIEWScanCodeManager-Prefix.pch";
 				INFOPLIST_FILE = "XVIEWScanCodeManager/XVIEWScanCodeManager-Info.plist";
