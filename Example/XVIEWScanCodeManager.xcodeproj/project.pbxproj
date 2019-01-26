@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		14C2EA0F612066A91FCF8880 /* Pods-XVIEWScanCodeManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XVIEWScanCodeManager_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-XVIEWScanCodeManager_Example/Pods-XVIEWScanCodeManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		15100D6D31023D032687659D /* Pods_XVIEWScanCodeManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XVIEWScanCodeManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3A537330BAC06BADB0FBBD41 /* XVIEWScanCodeManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XVIEWScanCodeManager.podspec; path = ../XVIEWScanCodeManager.podspec; sourceTree = "<group>"; };
+		3A537330BAC06BADB0FBBD41 /* XVIEWScanCodeManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XVIEWScanCodeManager.podspec; path = ../XVIEWScanCodeManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* XVIEWScanCodeManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XVIEWScanCodeManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -207,7 +207,7 @@
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				E6FEFAF108BC6A7353BB7E29 /* [CP] Copy Pods Resources */,
+				F9DCA1ABE89DD5DC9ABEF3AA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -333,7 +333,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E6FEFAF108BC6A7353BB7E29 /* [CP] Copy Pods Resources */ = {
+		F9DCA1ABE89DD5DC9ABEF3AA /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
