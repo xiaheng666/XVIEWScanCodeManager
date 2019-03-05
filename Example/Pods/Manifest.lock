@@ -1,5 +1,5 @@
 PODS:
-  - XVIEWScanCodeManager (0.1.4)
+  - XVIEWScanCodeManager (0.1.5)
 
 DEPENDENCIES:
   - XVIEWScanCodeManager (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XVIEWScanCodeManager: 0ff12669c2a8d9594c7f9dc1694075ba4c511d3c
+  XVIEWScanCodeManager: 637fedce5826f56fd744db97e1bdc4b7f5c1e75e
 
 PODFILE CHECKSUM: 18273bddcd9c938f240baed5daae6e28cb7bb8a6
 
